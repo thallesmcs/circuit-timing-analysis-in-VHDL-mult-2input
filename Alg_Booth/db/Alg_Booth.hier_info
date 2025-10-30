@@ -1,0 +1,484 @@
+|top_level
+clk => FF_D:gen_a:0:ff_a.clk
+clk => FF_D:gen_a:1:ff_a.clk
+clk => FF_D:gen_a:2:ff_a.clk
+clk => FF_D:gen_a:3:ff_a.clk
+clk => FF_D:gen_a:4:ff_a.clk
+clk => FF_D:gen_a:5:ff_a.clk
+clk => FF_D:gen_a:6:ff_a.clk
+clk => FF_D:gen_a:7:ff_a.clk
+clk => FF_D:gen_b:0:ff_b.clk
+clk => FF_D:gen_b:1:ff_b.clk
+clk => FF_D:gen_b:2:ff_b.clk
+clk => FF_D:gen_b:3:ff_b.clk
+clk => FF_D:gen_b:4:ff_b.clk
+clk => FF_D:gen_b:5:ff_b.clk
+clk => FF_D:gen_b:6:ff_b.clk
+clk => FF_D:gen_b:7:ff_b.clk
+clk => FF_D:gen_s:0:ff_s.clk
+clk => FF_D:gen_s:1:ff_s.clk
+clk => FF_D:gen_s:2:ff_s.clk
+clk => FF_D:gen_s:3:ff_s.clk
+clk => FF_D:gen_s:4:ff_s.clk
+clk => FF_D:gen_s:5:ff_s.clk
+clk => FF_D:gen_s:6:ff_s.clk
+clk => FF_D:gen_s:7:ff_s.clk
+clk => FF_D:gen_s:8:ff_s.clk
+clk => FF_D:gen_s:9:ff_s.clk
+clk => FF_D:gen_s:10:ff_s.clk
+clk => FF_D:gen_s:11:ff_s.clk
+clk => FF_D:gen_s:12:ff_s.clk
+clk => FF_D:gen_s:13:ff_s.clk
+clk => FF_D:gen_s:14:ff_s.clk
+clk => FF_D:gen_s:15:ff_s.clk
+rst_n => FF_D:gen_a:0:ff_a.rst_n
+rst_n => FF_D:gen_a:1:ff_a.rst_n
+rst_n => FF_D:gen_a:2:ff_a.rst_n
+rst_n => FF_D:gen_a:3:ff_a.rst_n
+rst_n => FF_D:gen_a:4:ff_a.rst_n
+rst_n => FF_D:gen_a:5:ff_a.rst_n
+rst_n => FF_D:gen_a:6:ff_a.rst_n
+rst_n => FF_D:gen_a:7:ff_a.rst_n
+rst_n => FF_D:gen_b:0:ff_b.rst_n
+rst_n => FF_D:gen_b:1:ff_b.rst_n
+rst_n => FF_D:gen_b:2:ff_b.rst_n
+rst_n => FF_D:gen_b:3:ff_b.rst_n
+rst_n => FF_D:gen_b:4:ff_b.rst_n
+rst_n => FF_D:gen_b:5:ff_b.rst_n
+rst_n => FF_D:gen_b:6:ff_b.rst_n
+rst_n => FF_D:gen_b:7:ff_b.rst_n
+rst_n => FF_D:gen_s:0:ff_s.rst_n
+rst_n => FF_D:gen_s:1:ff_s.rst_n
+rst_n => FF_D:gen_s:2:ff_s.rst_n
+rst_n => FF_D:gen_s:3:ff_s.rst_n
+rst_n => FF_D:gen_s:4:ff_s.rst_n
+rst_n => FF_D:gen_s:5:ff_s.rst_n
+rst_n => FF_D:gen_s:6:ff_s.rst_n
+rst_n => FF_D:gen_s:7:ff_s.rst_n
+rst_n => FF_D:gen_s:8:ff_s.rst_n
+rst_n => FF_D:gen_s:9:ff_s.rst_n
+rst_n => FF_D:gen_s:10:ff_s.rst_n
+rst_n => FF_D:gen_s:11:ff_s.rst_n
+rst_n => FF_D:gen_s:12:ff_s.rst_n
+rst_n => FF_D:gen_s:13:ff_s.rst_n
+rst_n => FF_D:gen_s:14:ff_s.rst_n
+rst_n => FF_D:gen_s:15:ff_s.rst_n
+A[0] => FF_D:gen_a:0:ff_a.d
+A[1] => FF_D:gen_a:1:ff_a.d
+A[2] => FF_D:gen_a:2:ff_a.d
+A[3] => FF_D:gen_a:3:ff_a.d
+A[4] => FF_D:gen_a:4:ff_a.d
+A[5] => FF_D:gen_a:5:ff_a.d
+A[6] => FF_D:gen_a:6:ff_a.d
+A[7] => FF_D:gen_a:7:ff_a.d
+B[0] => FF_D:gen_b:0:ff_b.d
+B[1] => FF_D:gen_b:1:ff_b.d
+B[2] => FF_D:gen_b:2:ff_b.d
+B[3] => FF_D:gen_b:3:ff_b.d
+B[4] => FF_D:gen_b:4:ff_b.d
+B[5] => FF_D:gen_b:5:ff_b.d
+B[6] => FF_D:gen_b:6:ff_b.d
+B[7] => FF_D:gen_b:7:ff_b.d
+S[0] <= FF_D:gen_s:0:ff_s.q
+S[1] <= FF_D:gen_s:1:ff_s.q
+S[2] <= FF_D:gen_s:2:ff_s.q
+S[3] <= FF_D:gen_s:3:ff_s.q
+S[4] <= FF_D:gen_s:4:ff_s.q
+S[5] <= FF_D:gen_s:5:ff_s.q
+S[6] <= FF_D:gen_s:6:ff_s.q
+S[7] <= FF_D:gen_s:7:ff_s.q
+S[8] <= FF_D:gen_s:8:ff_s.q
+S[9] <= FF_D:gen_s:9:ff_s.q
+S[10] <= FF_D:gen_s:10:ff_s.q
+S[11] <= FF_D:gen_s:11:ff_s.q
+S[12] <= FF_D:gen_s:12:ff_s.q
+S[13] <= FF_D:gen_s:13:ff_s.q
+S[14] <= FF_D:gen_s:14:ff_s.q
+S[15] <= FF_D:gen_s:15:ff_s.q
+
+
+|top_level|FF_D:\gen_a:0:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:1:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:2:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:3:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:4:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:5:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:6:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:7:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:0:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:1:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:2:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:3:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:4:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:5:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:6:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:7:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|BoothParalelo8b:multiplier_inst
+A[0] => aux.IN0
+A[0] => aux.IN0
+A[0] => aux.IN0
+A[0] => aux.IN0
+A[0] => aux.IN0
+A[0] => aux.IN0
+A[0] => aux.IN0
+A[0] => aux.IN0
+A[0] => shiftmd1.IN0
+A[1] => shiftmd1.IN1
+A[1] => aux[0].IN1
+A[1] => aux[1].IN1
+A[1] => aux[2].IN1
+A[1] => aux[3].IN1
+A[1] => aux[4].IN1
+A[1] => aux[5].IN1
+A[1] => aux[6].IN1
+A[1] => aux[7].IN1
+A[1] => aux[8].IN1
+A[1] => pp.IN1
+A[1] => caux[0].IN1
+A[1] => passamd2.IN0
+A[1] => shiftmd2.IN0
+A[1] => shiftmd2.IN0
+A[2] => passamd2.IN1
+A[2] => shiftmd2.IN1
+A[2] => shiftmd2.IN1
+A[3] => shiftmd2.IN1
+A[3] => shiftmd2.IN1
+A[3] => pp[9].IN1
+A[3] => pp[10].IN1
+A[3] => pp[11].IN1
+A[3] => pp[12].IN1
+A[3] => pp[13].IN1
+A[3] => pp[14].IN1
+A[3] => pp[15].IN1
+A[3] => pp[16].IN1
+A[3] => pp[17].IN1
+A[3] => passamd3.IN0
+A[3] => shiftmd3.IN0
+A[3] => shiftmd3.IN0
+A[3] => soma.IN1
+A[3] => c.IN1
+A[4] => passamd3.IN1
+A[4] => shiftmd3.IN1
+A[4] => shiftmd3.IN1
+A[5] => shiftmd3.IN1
+A[5] => shiftmd3.IN1
+A[5] => pp[18].IN1
+A[5] => pp[19].IN1
+A[5] => pp[20].IN1
+A[5] => pp[21].IN1
+A[5] => pp[22].IN1
+A[5] => pp[23].IN1
+A[5] => pp[24].IN1
+A[5] => pp[25].IN1
+A[5] => pp[26].IN1
+A[5] => passamd4.IN0
+A[5] => shiftmd4.IN0
+A[5] => shiftmd4.IN0
+A[5] => soma.IN1
+A[5] => c.IN1
+A[6] => passamd4.IN1
+A[6] => shiftmd4.IN1
+A[6] => shiftmd4.IN1
+A[7] => shiftmd4.IN1
+A[7] => shiftmd4.IN1
+A[7] => pp[27].IN1
+A[7] => pp[28].IN1
+A[7] => pp[29].IN1
+A[7] => pp[30].IN1
+A[7] => pp[31].IN1
+A[7] => pp[32].IN1
+A[7] => pp[33].IN1
+A[7] => pp[34].IN1
+A[7] => pp[35].IN1
+A[7] => soma.IN1
+A[7] => c.IN1
+B[0] => aux.IN1
+B[0] => aux.IN1
+B[0] => pp.IN1
+B[0] => pp.IN1
+B[0] => pp.IN1
+B[0] => pp.IN1
+B[0] => pp.IN1
+B[0] => pp.IN1
+B[1] => aux.IN1
+B[1] => aux.IN1
+B[1] => pp.IN1
+B[1] => pp.IN1
+B[1] => pp.IN1
+B[1] => pp.IN1
+B[1] => pp.IN1
+B[1] => pp.IN1
+B[2] => aux.IN1
+B[2] => aux.IN1
+B[2] => pp.IN1
+B[2] => pp.IN1
+B[2] => pp.IN1
+B[2] => pp.IN1
+B[2] => pp.IN1
+B[2] => pp.IN1
+B[3] => aux.IN1
+B[3] => aux.IN1
+B[3] => pp.IN1
+B[3] => pp.IN1
+B[3] => pp.IN1
+B[3] => pp.IN1
+B[3] => pp.IN1
+B[3] => pp.IN1
+B[4] => aux.IN1
+B[4] => aux.IN1
+B[4] => pp.IN1
+B[4] => pp.IN1
+B[4] => pp.IN1
+B[4] => pp.IN1
+B[4] => pp.IN1
+B[4] => pp.IN1
+B[5] => aux.IN1
+B[5] => aux.IN1
+B[5] => pp.IN1
+B[5] => pp.IN1
+B[5] => pp.IN1
+B[5] => pp.IN1
+B[5] => pp.IN1
+B[5] => pp.IN1
+B[6] => aux.IN1
+B[6] => aux.IN1
+B[6] => pp.IN1
+B[6] => pp.IN1
+B[6] => pp.IN1
+B[6] => pp.IN1
+B[6] => pp.IN1
+B[6] => pp.IN1
+B[7] => aux.IN1
+B[7] => aux.IN1
+B[7] => pp.IN1
+B[7] => pp.IN1
+B[7] => pp.IN1
+B[7] => pp.IN1
+B[7] => pp.IN1
+B[7] => pp.IN1
+S[0] <= pp.DB_MAX_OUTPUT_PORT_TYPE
+S[1] <= pp.DB_MAX_OUTPUT_PORT_TYPE
+S[2] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[3] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[4] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[5] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[6] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[7] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[8] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[9] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[10] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[11] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[12] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[13] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[14] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+S[15] <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:0:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:1:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:2:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:3:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:4:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:5:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:6:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:7:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:8:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:9:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:10:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:11:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:12:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:13:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:14:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:15:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

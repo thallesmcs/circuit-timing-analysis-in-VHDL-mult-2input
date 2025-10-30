@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Oct 30 10:07:38 2025
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : 8b_vitis_comb_s_gen
+Top-level Entity Name : top_level
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 0 / 22,320 ( 0 % )
+    Total combinational functions : 0 / 22,320 ( 0 % )
+    Dedicated logic registers : 0 / 22,320 ( 0 % )
+Total registers : 0
+Total pins : 34 / 154 ( 22 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 1 / 132 ( < 1 % )
+Total PLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,2 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,multiplicador8bits:multiplier_inst|multiplicador8bits_mul_8ns_8ns_16_1_1:mul_8ns_8ns_16_1_1_U1|lpm_mult:Mult0|mult_aat:auto_generated|mac_out2,
