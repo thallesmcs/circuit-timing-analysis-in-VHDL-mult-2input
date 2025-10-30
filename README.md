@@ -83,6 +83,26 @@ O código declara uma série de entidades auxiliares antes da entidade principal
 Defina aqui a licença do projeto, caso aplicável. -->
 
 
-# Fmax
- **8b_vitis: 343,29Mhz**
- **8b_vitis_sem_generate: 343,29Mhz**
+# Quartus Prime 24.1std
+
+## Fmax
+
+**Analise de Fmax em Multiplicadores de 8 Bits 2 Entradas**
+
+| Bits | Algoritmo de Booth (MHz) | Algoritmo com RCA (MHz) | HLS Puro (MHz) |
+|:----:|:------------------------:|:-----------------------:|:--------------:|
+|  8   |          131,94          |          237,02         |     343,29     |
+
+## Recursos
+
+**Analise de Recursos em Multiplicadores de 8 Bits 2 Entradas**
+
+| Bits | Algoritmo de Booth (Total LE) | Algoritmo com RCA (Total LE) | HLS Puro (Total LE) |
+|:----:|:-----------------------------:|:----------------------------:|:-------------------:|
+|  8   |              114              |              66              |         0           |
+
+Note: HLS Puro utilizou "Embedded Multiplier 9-bit elements: 1/132".
+
+## Gráficos e Tabelas 
+
+Os gráficos e tabelas complementares gerados a partir das análises estão disponíveis na pasta [`doc/img`](doc/img).
