@@ -1,0 +1,1757 @@
+|top_level
+clk => FF_D:gen_a:0:ff_a.clk
+clk => FF_D:gen_a:1:ff_a.clk
+clk => FF_D:gen_a:2:ff_a.clk
+clk => FF_D:gen_a:3:ff_a.clk
+clk => FF_D:gen_a:4:ff_a.clk
+clk => FF_D:gen_a:5:ff_a.clk
+clk => FF_D:gen_a:6:ff_a.clk
+clk => FF_D:gen_a:7:ff_a.clk
+clk => FF_D:gen_b:0:ff_b.clk
+clk => FF_D:gen_b:1:ff_b.clk
+clk => FF_D:gen_b:2:ff_b.clk
+clk => FF_D:gen_b:3:ff_b.clk
+clk => FF_D:gen_b:4:ff_b.clk
+clk => FF_D:gen_b:5:ff_b.clk
+clk => FF_D:gen_b:6:ff_b.clk
+clk => FF_D:gen_b:7:ff_b.clk
+clk => FF_D:gen_s:0:ff_s.clk
+clk => FF_D:gen_s:1:ff_s.clk
+clk => FF_D:gen_s:2:ff_s.clk
+clk => FF_D:gen_s:3:ff_s.clk
+clk => FF_D:gen_s:4:ff_s.clk
+clk => FF_D:gen_s:5:ff_s.clk
+clk => FF_D:gen_s:6:ff_s.clk
+clk => FF_D:gen_s:7:ff_s.clk
+clk => FF_D:gen_s:8:ff_s.clk
+clk => FF_D:gen_s:9:ff_s.clk
+clk => FF_D:gen_s:10:ff_s.clk
+clk => FF_D:gen_s:11:ff_s.clk
+clk => FF_D:gen_s:12:ff_s.clk
+clk => FF_D:gen_s:13:ff_s.clk
+clk => FF_D:gen_s:14:ff_s.clk
+clk => FF_D:gen_s:15:ff_s.clk
+rst_n => FF_D:gen_a:0:ff_a.rst_n
+rst_n => FF_D:gen_a:1:ff_a.rst_n
+rst_n => FF_D:gen_a:2:ff_a.rst_n
+rst_n => FF_D:gen_a:3:ff_a.rst_n
+rst_n => FF_D:gen_a:4:ff_a.rst_n
+rst_n => FF_D:gen_a:5:ff_a.rst_n
+rst_n => FF_D:gen_a:6:ff_a.rst_n
+rst_n => FF_D:gen_a:7:ff_a.rst_n
+rst_n => FF_D:gen_b:0:ff_b.rst_n
+rst_n => FF_D:gen_b:1:ff_b.rst_n
+rst_n => FF_D:gen_b:2:ff_b.rst_n
+rst_n => FF_D:gen_b:3:ff_b.rst_n
+rst_n => FF_D:gen_b:4:ff_b.rst_n
+rst_n => FF_D:gen_b:5:ff_b.rst_n
+rst_n => FF_D:gen_b:6:ff_b.rst_n
+rst_n => FF_D:gen_b:7:ff_b.rst_n
+rst_n => FF_D:gen_s:0:ff_s.rst_n
+rst_n => FF_D:gen_s:1:ff_s.rst_n
+rst_n => FF_D:gen_s:2:ff_s.rst_n
+rst_n => FF_D:gen_s:3:ff_s.rst_n
+rst_n => FF_D:gen_s:4:ff_s.rst_n
+rst_n => FF_D:gen_s:5:ff_s.rst_n
+rst_n => FF_D:gen_s:6:ff_s.rst_n
+rst_n => FF_D:gen_s:7:ff_s.rst_n
+rst_n => FF_D:gen_s:8:ff_s.rst_n
+rst_n => FF_D:gen_s:9:ff_s.rst_n
+rst_n => FF_D:gen_s:10:ff_s.rst_n
+rst_n => FF_D:gen_s:11:ff_s.rst_n
+rst_n => FF_D:gen_s:12:ff_s.rst_n
+rst_n => FF_D:gen_s:13:ff_s.rst_n
+rst_n => FF_D:gen_s:14:ff_s.rst_n
+rst_n => FF_D:gen_s:15:ff_s.rst_n
+A[0] => FF_D:gen_a:0:ff_a.d
+A[1] => FF_D:gen_a:1:ff_a.d
+A[2] => FF_D:gen_a:2:ff_a.d
+A[3] => FF_D:gen_a:3:ff_a.d
+A[4] => FF_D:gen_a:4:ff_a.d
+A[5] => FF_D:gen_a:5:ff_a.d
+A[6] => FF_D:gen_a:6:ff_a.d
+A[7] => FF_D:gen_a:7:ff_a.d
+B[0] => FF_D:gen_b:0:ff_b.d
+B[1] => FF_D:gen_b:1:ff_b.d
+B[2] => FF_D:gen_b:2:ff_b.d
+B[3] => FF_D:gen_b:3:ff_b.d
+B[4] => FF_D:gen_b:4:ff_b.d
+B[5] => FF_D:gen_b:5:ff_b.d
+B[6] => FF_D:gen_b:6:ff_b.d
+B[7] => FF_D:gen_b:7:ff_b.d
+S[0] << FF_D:gen_s:0:ff_s.q
+S[1] << FF_D:gen_s:1:ff_s.q
+S[2] << FF_D:gen_s:2:ff_s.q
+S[3] << FF_D:gen_s:3:ff_s.q
+S[4] << FF_D:gen_s:4:ff_s.q
+S[5] << FF_D:gen_s:5:ff_s.q
+S[6] << FF_D:gen_s:6:ff_s.q
+S[7] << FF_D:gen_s:7:ff_s.q
+S[8] << FF_D:gen_s:8:ff_s.q
+S[9] << FF_D:gen_s:9:ff_s.q
+S[10] << FF_D:gen_s:10:ff_s.q
+S[11] << FF_D:gen_s:11:ff_s.q
+S[12] << FF_D:gen_s:12:ff_s.q
+S[13] << FF_D:gen_s:13:ff_s.q
+S[14] << FF_D:gen_s:14:ff_s.q
+S[15] << FF_D:gen_s:15:ff_s.q
+
+
+|top_level|FF_D:\gen_a:0:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:1:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:2:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:3:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:4:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:5:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:6:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_a:7:ff_a
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:0:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:1:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:2:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:3:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:4:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:5:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:6:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_b:7:ff_b
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst
+A[0] => RCAoperando1m28b:estagio0m28bRCA.A0
+A[1] => RCAoperando1m28b:estagio0m28bRCA.A1
+A[2] => RCAoperando1m28b:estagio1m28bRCA.A0
+A[3] => RCAoperando1m28b:estagio1m28bRCA.A1
+A[4] => RCAoperando1m28b:estagio2m28bRCA.A0
+A[5] => RCAoperando1m28b:estagio2m28bRCA.A1
+A[6] => RCAoperando2m28b:estagio3m28bRCA.A0
+A[7] => RCAoperando2m28b:estagio3m28bRCA.A1
+B[0] => RCAoperando1m28b:estagio0m28bRCA.B0
+B[0] => RCAoperando1m28b:estagio1m28bRCA.B0
+B[0] => RCAoperando1m28b:estagio2m28bRCA.B0
+B[0] => RCAoperando2m28b:estagio3m28bRCA.B0
+B[1] => RCAoperando1m28b:estagio0m28bRCA.B1
+B[1] => RCAoperando1m28b:estagio1m28bRCA.B1
+B[1] => RCAoperando1m28b:estagio2m28bRCA.B1
+B[1] => RCAoperando2m28b:estagio3m28bRCA.B1
+B[2] => RCAoperando1m28b:estagio0m28bRCA.B2
+B[2] => RCAoperando1m28b:estagio1m28bRCA.B2
+B[2] => RCAoperando1m28b:estagio2m28bRCA.B2
+B[2] => RCAoperando2m28b:estagio3m28bRCA.B2
+B[3] => RCAoperando1m28b:estagio0m28bRCA.B3
+B[3] => RCAoperando1m28b:estagio1m28bRCA.B3
+B[3] => RCAoperando1m28b:estagio2m28bRCA.B3
+B[3] => RCAoperando2m28b:estagio3m28bRCA.B3
+B[4] => RCAoperando1m28b:estagio0m28bRCA.B4
+B[4] => RCAoperando1m28b:estagio1m28bRCA.B4
+B[4] => RCAoperando1m28b:estagio2m28bRCA.B4
+B[4] => RCAoperando2m28b:estagio3m28bRCA.B4
+B[5] => RCAoperando1m28b:estagio0m28bRCA.B5
+B[5] => RCAoperando1m28b:estagio1m28bRCA.B5
+B[5] => RCAoperando1m28b:estagio2m28bRCA.B5
+B[5] => RCAoperando2m28b:estagio3m28bRCA.B5
+B[6] => RCAoperando1m28b:estagio0m28bRCA.B6
+B[6] => RCAoperando1m28b:estagio1m28bRCA.B6
+B[6] => RCAoperando1m28b:estagio2m28bRCA.B6
+B[6] => RCAoperando2m28b:estagio3m28bRCA.B6
+B[7] => RCAoperando1m28b:estagio0m28bRCA.B7
+B[7] => RCAoperando1m28b:estagio1m28bRCA.B7
+B[7] => RCAoperando1m28b:estagio2m28bRCA.B7
+B[7] => RCAoperando2m28b:estagio3m28bRCA.B7
+S[0] <= RCAoperando1m28b:estagio0m28bRCA.S0
+S[1] <= RCAoperando1m28b:estagio0m28bRCA.S1
+S[2] <= RCAhalfadder_2Bitsm28b:estagio10RCA.S0
+S[3] <= RCAhalfadder_2Bitsm28b:estagio10RCA.S1
+S[4] <= RCAhalfadder_2Bitsm28b:estagio21RCA.S0
+S[5] <= RCAhalfadder_2Bitsm28b:estagio21RCA.S1
+S[6] <= RCAhalfadder_2Bitsm28b:estagio32RCA.S0
+S[7] <= RCAhalfadder_2Bitsm28b:estagio32RCA.S1
+S[8] <= RCAfulladder_2Bitsm28b:estagio33RCA.S0
+S[9] <= RCAfulladder_2Bitsm28b:estagio33RCA.S1
+S[10] <= RCAfulladder_2Bitsm28b:estagio34RCA.S0
+S[11] <= RCAfulladder_2Bitsm28b:estagio34RCA.S1
+S[12] <= RCAfulladder_2Bitsm28b:estagio35RCA.S0
+S[13] <= RCAfulladder_2Bitsm28b:estagio35RCA.S1
+S[14] <= RCAfulladder_npp_2Bitsm28b:estagio40RCA.S0
+S[15] <= RCAfulladder_npp_2Bitsm28b:estagio40RCA.S1
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA
+A1 => RCAmulttipo1xm28b:stage_0m28bRCA.A1
+A1 => RCAmulttipo1xm28b:stage_1m28bRCA.A1
+A1 => RCAmulttipo1xm28b:stage_2m28bRCA.A1
+A1 => RCAmulttipo2xam28b:stage_3m28bRCA.A1
+A0 => RCAmulttipo1xm28b:stage_0m28bRCA.A0
+A0 => RCAmulttipo1xm28b:stage_1m28bRCA.A0
+A0 => RCAmulttipo1xm28b:stage_2m28bRCA.A0
+A0 => RCAmulttipo2xam28b:stage_3m28bRCA.A0
+B7 => RCAmulttipo2xam28b:stage_3m28bRCA.B1
+B6 => RCAmulttipo2xam28b:stage_3m28bRCA.B0
+B5 => RCAmulttipo1xm28b:stage_2m28bRCA.B1
+B4 => RCAmulttipo1xm28b:stage_2m28bRCA.B0
+B3 => RCAmulttipo1xm28b:stage_1m28bRCA.B1
+B2 => RCAmulttipo1xm28b:stage_1m28bRCA.B0
+B1 => RCAmulttipo1xm28b:stage_0m28bRCA.B1
+B0 => RCAmulttipo1xm28b:stage_0m28bRCA.B0
+S9 <= RCAbitsadder_2Bitsm28b:stage_7m28bRCA.S1
+S8 <= RCAbitsadder_2Bitsm28b:stage_7m28bRCA.S0
+S7 <= RCAfulladder_2Bitsm28b:stage_6m28bRCA.S1
+S6 <= RCAfulladder_2Bitsm28b:stage_6m28bRCA.S0
+S5 <= RCAfulladder_2Bitsm28b:stage_5m28bRCA.S1
+S4 <= RCAfulladder_2Bitsm28b:stage_5m28bRCA.S0
+S3 <= RCAhalfadder_2Bitsm28b:stage_4m28bRCA.S1
+S2 <= RCAhalfadder_2Bitsm28b:stage_4m28bRCA.S0
+S1 <= RCAmulttipo1xm28b:stage_0m28bRCA.S1
+S0 <= RCAmulttipo1xm28b:stage_0m28bRCA.S0
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAmulttipo1xm28b:stage_0m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAmulttipo1xm28b:stage_1m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAmulttipo1xm28b:stage_2m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAmulttipo2xam28b:stage_3m28bRCA
+A1 => m1.IN0
+A1 => temp2.IN0
+A1 => temp4.IN0
+A0 => temp1.IN0
+A0 => m2.IN0
+A0 => temp2.IN1
+A0 => temp4.IN1
+B1 => m2.IN1
+B1 => S2.IN1
+B1 => S3.IN1
+B0 => temp1.IN1
+B0 => m1.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= temp1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAbitsadder_2Bitsm28b:stage_7m28bRCA
+CIN => RCAhalfadderm28b:stage_0m28bRCA.B
+A1 => S1.IN1
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio0m28bRCA|RCAbitsadder_2Bitsm28b:stage_7m28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA
+A1 => RCAmulttipo1xm28b:stage_0m28bRCA.A1
+A1 => RCAmulttipo1xm28b:stage_1m28bRCA.A1
+A1 => RCAmulttipo1xm28b:stage_2m28bRCA.A1
+A1 => RCAmulttipo2xam28b:stage_3m28bRCA.A1
+A0 => RCAmulttipo1xm28b:stage_0m28bRCA.A0
+A0 => RCAmulttipo1xm28b:stage_1m28bRCA.A0
+A0 => RCAmulttipo1xm28b:stage_2m28bRCA.A0
+A0 => RCAmulttipo2xam28b:stage_3m28bRCA.A0
+B7 => RCAmulttipo2xam28b:stage_3m28bRCA.B1
+B6 => RCAmulttipo2xam28b:stage_3m28bRCA.B0
+B5 => RCAmulttipo1xm28b:stage_2m28bRCA.B1
+B4 => RCAmulttipo1xm28b:stage_2m28bRCA.B0
+B3 => RCAmulttipo1xm28b:stage_1m28bRCA.B1
+B2 => RCAmulttipo1xm28b:stage_1m28bRCA.B0
+B1 => RCAmulttipo1xm28b:stage_0m28bRCA.B1
+B0 => RCAmulttipo1xm28b:stage_0m28bRCA.B0
+S9 <= RCAbitsadder_2Bitsm28b:stage_7m28bRCA.S1
+S8 <= RCAbitsadder_2Bitsm28b:stage_7m28bRCA.S0
+S7 <= RCAfulladder_2Bitsm28b:stage_6m28bRCA.S1
+S6 <= RCAfulladder_2Bitsm28b:stage_6m28bRCA.S0
+S5 <= RCAfulladder_2Bitsm28b:stage_5m28bRCA.S1
+S4 <= RCAfulladder_2Bitsm28b:stage_5m28bRCA.S0
+S3 <= RCAhalfadder_2Bitsm28b:stage_4m28bRCA.S1
+S2 <= RCAhalfadder_2Bitsm28b:stage_4m28bRCA.S0
+S1 <= RCAmulttipo1xm28b:stage_0m28bRCA.S1
+S0 <= RCAmulttipo1xm28b:stage_0m28bRCA.S0
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAmulttipo1xm28b:stage_0m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAmulttipo1xm28b:stage_1m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAmulttipo1xm28b:stage_2m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAmulttipo2xam28b:stage_3m28bRCA
+A1 => m1.IN0
+A1 => temp2.IN0
+A1 => temp4.IN0
+A0 => temp1.IN0
+A0 => m2.IN0
+A0 => temp2.IN1
+A0 => temp4.IN1
+B1 => m2.IN1
+B1 => S2.IN1
+B1 => S3.IN1
+B0 => temp1.IN1
+B0 => m1.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= temp1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAbitsadder_2Bitsm28b:stage_7m28bRCA
+CIN => RCAhalfadderm28b:stage_0m28bRCA.B
+A1 => S1.IN1
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio1m28bRCA|RCAbitsadder_2Bitsm28b:stage_7m28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA
+A1 => RCAmulttipo1xm28b:stage_0m28bRCA.A1
+A1 => RCAmulttipo1xm28b:stage_1m28bRCA.A1
+A1 => RCAmulttipo1xm28b:stage_2m28bRCA.A1
+A1 => RCAmulttipo2xam28b:stage_3m28bRCA.A1
+A0 => RCAmulttipo1xm28b:stage_0m28bRCA.A0
+A0 => RCAmulttipo1xm28b:stage_1m28bRCA.A0
+A0 => RCAmulttipo1xm28b:stage_2m28bRCA.A0
+A0 => RCAmulttipo2xam28b:stage_3m28bRCA.A0
+B7 => RCAmulttipo2xam28b:stage_3m28bRCA.B1
+B6 => RCAmulttipo2xam28b:stage_3m28bRCA.B0
+B5 => RCAmulttipo1xm28b:stage_2m28bRCA.B1
+B4 => RCAmulttipo1xm28b:stage_2m28bRCA.B0
+B3 => RCAmulttipo1xm28b:stage_1m28bRCA.B1
+B2 => RCAmulttipo1xm28b:stage_1m28bRCA.B0
+B1 => RCAmulttipo1xm28b:stage_0m28bRCA.B1
+B0 => RCAmulttipo1xm28b:stage_0m28bRCA.B0
+S9 <= RCAbitsadder_2Bitsm28b:stage_7m28bRCA.S1
+S8 <= RCAbitsadder_2Bitsm28b:stage_7m28bRCA.S0
+S7 <= RCAfulladder_2Bitsm28b:stage_6m28bRCA.S1
+S6 <= RCAfulladder_2Bitsm28b:stage_6m28bRCA.S0
+S5 <= RCAfulladder_2Bitsm28b:stage_5m28bRCA.S1
+S4 <= RCAfulladder_2Bitsm28b:stage_5m28bRCA.S0
+S3 <= RCAhalfadder_2Bitsm28b:stage_4m28bRCA.S1
+S2 <= RCAhalfadder_2Bitsm28b:stage_4m28bRCA.S0
+S1 <= RCAmulttipo1xm28b:stage_0m28bRCA.S1
+S0 <= RCAmulttipo1xm28b:stage_0m28bRCA.S0
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAmulttipo1xm28b:stage_0m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAmulttipo1xm28b:stage_1m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAmulttipo1xm28b:stage_2m28bRCA
+A1 => i2.IN0
+A1 => i4.IN0
+A0 => i1.IN0
+A0 => i3.IN0
+B1 => i3.IN1
+B1 => i4.IN1
+B0 => i1.IN1
+B0 => i2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= i1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAmulttipo2xam28b:stage_3m28bRCA
+A1 => m1.IN0
+A1 => temp2.IN0
+A1 => temp4.IN0
+A0 => temp1.IN0
+A0 => m2.IN0
+A0 => temp2.IN1
+A0 => temp4.IN1
+B1 => m2.IN1
+B1 => S2.IN1
+B1 => S3.IN1
+B0 => temp1.IN1
+B0 => m1.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= temp1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAhalfadder_2Bitsm28b:stage_4m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAfulladder_2Bitsm28b:stage_5m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAfulladder_2Bitsm28b:stage_6m28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAbitsadder_2Bitsm28b:stage_7m28bRCA
+CIN => RCAhalfadderm28b:stage_0m28bRCA.B
+A1 => S1.IN1
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando1m28b:estagio2m28bRCA|RCAbitsadder_2Bitsm28b:stage_7m28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA
+A1 => RCAmulttipo2xm28b:stage_0am28bRCA.A1
+A1 => RCAmulttipo2xm28b:stage_1am28bRCA.A1
+A1 => RCAmulttipo2xm28b:stage_2am28bRCA.A1
+A1 => RCAmulttipo3xm28b:stage_3am28bRCA.A1
+A0 => RCAmulttipo2xm28b:stage_0am28bRCA.A0
+A0 => RCAmulttipo2xm28b:stage_1am28bRCA.A0
+A0 => RCAmulttipo2xm28b:stage_2am28bRCA.A0
+A0 => RCAmulttipo3xm28b:stage_3am28bRCA.A0
+B7 => RCAmulttipo3xm28b:stage_3am28bRCA.B1
+B6 => RCAmulttipo3xm28b:stage_3am28bRCA.B0
+B5 => RCAmulttipo2xm28b:stage_2am28bRCA.B1
+B4 => RCAmulttipo2xm28b:stage_2am28bRCA.B0
+B3 => RCAmulttipo2xm28b:stage_1am28bRCA.B1
+B2 => RCAmulttipo2xm28b:stage_1am28bRCA.B0
+B1 => RCAmulttipo2xm28b:stage_0am28bRCA.B1
+B0 => RCAmulttipo2xm28b:stage_0am28bRCA.B0
+S9 <= RCAfulladder_npp_2Bitsm28b:stage_9am28bRCA.S1
+S8 <= RCAfulladder_npp_2Bitsm28b:stage_9am28bRCA.S0
+S7 <= RCAhalfadder_2Bitsm28b:stage_8am28bRCA.S1
+S6 <= RCAhalfadder_2Bitsm28b:stage_8am28bRCA.S0
+S5 <= RCAhalfadder_2Bitsm28b:stage_6am28bRCA.S1
+S4 <= RCAhalfadder_2Bitsm28b:stage_6am28bRCA.S0
+S3 <= RCAhalfadder_2Bitsm28b:stage_4am28bRCA.S1
+S2 <= RCAhalfadder_2Bitsm28b:stage_4am28bRCA.S0
+S1 <= RCAmulttipo2xm28b:stage_0am28bRCA.S1
+S0 <= RCAmulttipo2xm28b:stage_0am28bRCA.S0
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAmulttipo2xm28b:stage_0am28bRCA
+A1 => m1.IN0
+A1 => var3.IN0
+A1 => m3.IN0
+A0 => S0.IN0
+A0 => m2.IN0
+A0 => var3.IN1
+B1 => m2.IN1
+B1 => var3.IN1
+B1 => m3.IN1
+B1 => var1.IN1
+B0 => S0.IN1
+B0 => m1.IN1
+B0 => var2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= S0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAmulttipo2xm28b:stage_1am28bRCA
+A1 => m1.IN0
+A1 => var3.IN0
+A1 => m3.IN0
+A0 => S0.IN0
+A0 => m2.IN0
+A0 => var3.IN1
+B1 => m2.IN1
+B1 => var3.IN1
+B1 => m3.IN1
+B1 => var1.IN1
+B0 => S0.IN1
+B0 => m1.IN1
+B0 => var2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= S0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAmulttipo2xm28b:stage_2am28bRCA
+A1 => m1.IN0
+A1 => var3.IN0
+A1 => m3.IN0
+A0 => S0.IN0
+A0 => m2.IN0
+A0 => var3.IN1
+B1 => m2.IN1
+B1 => var3.IN1
+B1 => m3.IN1
+B1 => var1.IN1
+B0 => S0.IN1
+B0 => m1.IN1
+B0 => var2.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= S0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAmulttipo3xm28b:stage_3am28bRCA
+A1 => m1.IN0
+A1 => var1.IN0
+A1 => var3.IN0
+A1 => var2.IN0
+A0 => S0.IN0
+A0 => m2.IN0
+A0 => var2.IN1
+A0 => var3.IN1
+B1 => m2.IN1
+B1 => var2.IN1
+B1 => var4.IN0
+B1 => var1.IN1
+B0 => S0.IN1
+B0 => m1.IN1
+B0 => var1.IN1
+B0 => var4.IN1
+S3 <= S3.DB_MAX_OUTPUT_PORT_TYPE
+S2 <= S2.DB_MAX_OUTPUT_PORT_TYPE
+S1 <= S1.DB_MAX_OUTPUT_PORT_TYPE
+S0 <= S0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_4am28bRCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_4am28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_4am28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_5am28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladder_nppm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladder_nppm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+S1 <= RCAfulladder_nppm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_5am28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_5am28bRCA|RCAfulladder_nppm28b:stage_1m28bRCA
+CIN => S.IN1
+A => fio1.IN0
+B => fio1.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_6am28bRCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_6am28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_6am28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_7am28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladder_nppm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladder_nppm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+S1 <= RCAfulladder_nppm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_7am28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_7am28bRCA|RCAfulladder_nppm28b:stage_1m28bRCA
+CIN => S.IN1
+A => fio1.IN0
+B => fio1.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_8am28bRCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_8am28bRCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAhalfadder_2Bitsm28b:stage_8am28bRCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_9am28bRCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladder_nppm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladder_nppm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+S1 <= RCAfulladder_nppm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_9am28bRCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAoperando2m28b:estagio3m28bRCA|RCAfulladder_npp_2Bitsm28b:stage_9am28bRCA|RCAfulladder_nppm28b:stage_1m28bRCA
+CIN => S.IN1
+A => fio1.IN0
+B => fio1.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio10RCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio10RCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio10RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio11RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio11RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio11RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio12RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio12RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio12RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio13RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio13RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio13RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio18RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladder_nppm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladder_nppm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+S1 <= RCAfulladder_nppm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio18RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio18RCA|RCAfulladder_nppm28b:stage_1m28bRCA
+CIN => S.IN1
+A => fio1.IN0
+B => fio1.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio21RCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio21RCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio21RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio22RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio22RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio22RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio23RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio23RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio23RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio24RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio24RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio24RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio29RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladder_nppm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladder_nppm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+S1 <= RCAfulladder_nppm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio29RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio29RCA|RCAfulladder_nppm28b:stage_1m28bRCA
+CIN => S.IN1
+A => fio1.IN0
+B => fio1.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio32RCA
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAhalfadderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAhalfadderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAhalfadderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio32RCA|RCAhalfadderm28b:stage_0m28bRCA
+A => S.IN0
+A => COUT.IN0
+B => S.IN1
+B => COUT.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAhalfadder_2Bitsm28b:estagio32RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio33RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio33RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio33RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio34RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio34RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio34RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio35RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladderm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladderm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+COUT <= RCAfulladderm28b:stage_1m28bRCA.COUT
+S1 <= RCAfulladderm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio35RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_2Bitsm28b:estagio35RCA|RCAfulladderm28b:stage_1m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio40RCA
+CIN => RCAfulladderm28b:stage_0m28bRCA.CIN
+A1 => RCAfulladder_nppm28b:stage_1m28bRCA.A
+A0 => RCAfulladderm28b:stage_0m28bRCA.A
+B1 => RCAfulladder_nppm28b:stage_1m28bRCA.B
+B0 => RCAfulladderm28b:stage_0m28bRCA.B
+S1 <= RCAfulladder_nppm28b:stage_1m28bRCA.S
+S0 <= RCAfulladderm28b:stage_0m28bRCA.S
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio40RCA|RCAfulladderm28b:stage_0m28bRCA
+CIN => S.IN1
+CIN => fio3.IN1
+A => fio1.IN0
+A => fio2.IN0
+B => fio1.IN1
+B => fio2.IN1
+COUT <= COUT.DB_MAX_OUTPUT_PORT_TYPE
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|RCA_radix4_8b:multiplier_inst|RCAfulladder_npp_2Bitsm28b:estagio40RCA|RCAfulladder_nppm28b:stage_1m28bRCA
+CIN => S.IN1
+A => fio1.IN0
+B => fio1.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:0:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:1:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:2:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:3:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:4:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:5:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:6:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:7:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:8:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:9:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:10:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:11:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:12:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:13:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:14:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top_level|FF_D:\gen_s:15:ff_s
+clk => q~reg0.CLK
+rst_n => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
